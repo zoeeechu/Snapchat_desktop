@@ -6,7 +6,7 @@ a simple electron desktop app based on snapchat web
 
  based on: https://github.com/electron/electron-quick-start
 
- icon: https://macosicons.com/#/  
- > Author: iigiovanni
+ Icon: https://macosicons.com/#/  
+ > Icon Author: iigiovanni
 
 
