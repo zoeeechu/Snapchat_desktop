@@ -1,0 +1,25 @@
+{
+  "name": "snapchat_desktop",
+  "version": "1.0.0",
+  "description": "A Snapchat Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/zoeeechu/Snapchat_desktop",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "snapchat",
+    "web"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^25.1.0"
+  },
+  "dependencies": {
+    "user-agents": "^1.0.1428"
+  }
+}
